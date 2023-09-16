@@ -1,2 +1,2 @@
 # School-Database-Managment-System
-using Pyton
+Created School Datbase Managment System using SQL and Python
